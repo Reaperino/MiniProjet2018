@@ -8,3 +8,4 @@ D:\Cours IUT INFO\Semestre 2\Projet A21-D21\MiniProjet2018\MiniProjet2018\obj\De
 D:\Cours IUT INFO\Semestre 2\Projet A21-D21\MiniProjet2018\MiniProjet2018\obj\Debug\MiniProjet2018.csproj.CoreCompileInputs.cache
 D:\Cours IUT INFO\Semestre 2\Projet A21-D21\MiniProjet2018\MiniProjet2018\obj\Debug\MiniProjet2018.exe
 D:\Cours IUT INFO\Semestre 2\Projet A21-D21\MiniProjet2018\MiniProjet2018\obj\Debug\MiniProjet2018.pdb
+D:\Cours IUT INFO\Semestre 2\Projet A21-D21\MiniProjet2018\MiniProjet2018\obj\Debug\MiniProjet2018.frmExercices.resources

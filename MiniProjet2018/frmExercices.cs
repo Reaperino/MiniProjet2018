@@ -10,17 +10,11 @@ using System.Windows.Forms;
 
 namespace MiniProjet2018
 {
-    public partial class frmPrincipal : Form
+    public partial class frmExercices : Form
     {
-        public frmPrincipal()
+        public frmExercices()
         {
             InitializeComponent();
-        }
-
-        private void btnCommencer_Click(object sender, EventArgs e)
-        {
-            Form frmExercices = new frmExercices();
-            frmExercices.Show();
         }
     }
 }

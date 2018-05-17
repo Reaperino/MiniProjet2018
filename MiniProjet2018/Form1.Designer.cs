@@ -29,14 +29,14 @@
         private void InitializeComponent()
         {
             this.grpGroupeActuel = new System.Windows.Forms.GroupBox();
+            this.btnCommencer = new System.Windows.Forms.Button();
+            this.lblExoTermines = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.lblCours = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.lblPersonne = new System.Windows.Forms.Label();
             this.cboIdentifiant = new System.Windows.Forms.ComboBox();
-            this.lblCours = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.lblExoTermines = new System.Windows.Forms.Label();
-            this.btnCommencer = new System.Windows.Forms.Button();
             this.grpGroupeActuel.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -57,6 +57,52 @@
             this.grpGroupeActuel.TabIndex = 0;
             this.grpGroupeActuel.TabStop = false;
             this.grpGroupeActuel.Text = "Cours actuel";
+            // 
+            // btnCommencer
+            // 
+            this.btnCommencer.Location = new System.Drawing.Point(464, 337);
+            this.btnCommencer.Name = "btnCommencer";
+            this.btnCommencer.Size = new System.Drawing.Size(131, 30);
+            this.btnCommencer.TabIndex = 7;
+            this.btnCommencer.Text = "Commencer";
+            this.btnCommencer.UseVisualStyleBackColor = true;
+            this.btnCommencer.Click += new System.EventHandler(this.btnCommencer_Click);
+            // 
+            // lblExoTermines
+            // 
+            this.lblExoTermines.AutoSize = true;
+            this.lblExoTermines.Location = new System.Drawing.Point(210, 254);
+            this.lblExoTermines.Name = "lblExoTermines";
+            this.lblExoTermines.Size = new System.Drawing.Size(36, 17);
+            this.lblExoTermines.TabIndex = 6;
+            this.lblExoTermines.Text = "0/11";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(73, 254);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(134, 17);
+            this.label3.TabIndex = 5;
+            this.label3.Text = "Exercices terminés :";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(73, 197);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(108, 17);
+            this.label2.TabIndex = 4;
+            this.label2.Text = "Leçon actuelle :";
+            // 
+            // lblCours
+            // 
+            this.lblCours.AutoSize = true;
+            this.lblCours.Location = new System.Drawing.Point(207, 142);
+            this.lblCours.Name = "lblCours";
+            this.lblCours.Size = new System.Drawing.Size(154, 17);
+            this.lblCours.TabIndex = 3;
+            this.lblCours.Text = "texte avec le bon cours";
             // 
             // label1
             // 
@@ -83,51 +129,6 @@
             this.cboIdentifiant.Name = "cboIdentifiant";
             this.cboIdentifiant.Size = new System.Drawing.Size(232, 24);
             this.cboIdentifiant.TabIndex = 0;
-            // 
-            // lblCours
-            // 
-            this.lblCours.AutoSize = true;
-            this.lblCours.Location = new System.Drawing.Point(207, 142);
-            this.lblCours.Name = "lblCours";
-            this.lblCours.Size = new System.Drawing.Size(154, 17);
-            this.lblCours.TabIndex = 3;
-            this.lblCours.Text = "texte avec le bon cours";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(73, 197);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(108, 17);
-            this.label2.TabIndex = 4;
-            this.label2.Text = "Leçon actuelle :";
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(73, 254);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(134, 17);
-            this.label3.TabIndex = 5;
-            this.label3.Text = "Exercices terminés :";
-            // 
-            // lblExoTermines
-            // 
-            this.lblExoTermines.AutoSize = true;
-            this.lblExoTermines.Location = new System.Drawing.Point(210, 254);
-            this.lblExoTermines.Name = "lblExoTermines";
-            this.lblExoTermines.Size = new System.Drawing.Size(36, 17);
-            this.lblExoTermines.TabIndex = 6;
-            this.lblExoTermines.Text = "0/11";
-            // 
-            // btnCommencer
-            // 
-            this.btnCommencer.Location = new System.Drawing.Point(464, 337);
-            this.btnCommencer.Name = "btnCommencer";
-            this.btnCommencer.Size = new System.Drawing.Size(131, 30);
-            this.btnCommencer.TabIndex = 7;
-            this.btnCommencer.Text = "Commencer";
-            this.btnCommencer.UseVisualStyleBackColor = true;
             // 
             // frmPrincipal
             // 
