@@ -1,0 +1,10 @@
+D:\Cours IUT INFO\Semestre 2\Projet A21-D21\MiniProjet2018\MiniProjet2018\bin\Debug\MiniProjet2018.exe.config
+D:\Cours IUT INFO\Semestre 2\Projet A21-D21\MiniProjet2018\MiniProjet2018\bin\Debug\MiniProjet2018.exe
+D:\Cours IUT INFO\Semestre 2\Projet A21-D21\MiniProjet2018\MiniProjet2018\bin\Debug\MiniProjet2018.pdb
+D:\Cours IUT INFO\Semestre 2\Projet A21-D21\MiniProjet2018\MiniProjet2018\obj\Debug\MiniProjet2018.csprojAssemblyReference.cache
+D:\Cours IUT INFO\Semestre 2\Projet A21-D21\MiniProjet2018\MiniProjet2018\obj\Debug\MiniProjet2018.frmPrincipal.resources
+D:\Cours IUT INFO\Semestre 2\Projet A21-D21\MiniProjet2018\MiniProjet2018\obj\Debug\MiniProjet2018.Properties.Resources.resources
+D:\Cours IUT INFO\Semestre 2\Projet A21-D21\MiniProjet2018\MiniProjet2018\obj\Debug\MiniProjet2018.csproj.GenerateResource.cache
+D:\Cours IUT INFO\Semestre 2\Projet A21-D21\MiniProjet2018\MiniProjet2018\obj\Debug\MiniProjet2018.csproj.CoreCompileInputs.cache
+D:\Cours IUT INFO\Semestre 2\Projet A21-D21\MiniProjet2018\MiniProjet2018\obj\Debug\MiniProjet2018.exe
+D:\Cours IUT INFO\Semestre 2\Projet A21-D21\MiniProjet2018\MiniProjet2018\obj\Debug\MiniProjet2018.pdb
